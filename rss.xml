@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brian Cauley]]></title>
+        <description><![CDATA[Brian Cauley]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 00:28:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My New Year’s Reflections ]]></title>
+            <description><![CDATA[<article><h1>My New Year’s Reflections </h1><p> A new year, another opportunity to reflect and look forward. Admittedly I would have found this kind of task cheesy, cliché and something I simply didn’t want to do only a few years ago. In that short time what I have learned, from reading authors like Seth Godin and Austin Kleon is that goal setting – the hyper-specific, actionable, measurable kind – is extremely important to getting things done and making progress in the world.  My romantic partner of one-and-a-half years (who is now also my business partner) is someone who reflects and sets goals. She is also someone who gets stuff done. When she sent me a list of twelve reflection questions – six for the past year, six for the year to come – I decided to give them their due attention. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8383005498dc2130d121481be44b7cb4b72b67c0.jpg"></article>]]></description>
+            <link>http://briancauley.ca/2014-2015-new-year-reflection/</link>
+            <guid isPermaLink="false">3d5642b5-f1d4-4f59-8a93-0ed9d495ecd4</guid>
+            <pubDate>Fri, 11 Dec 2015 00:28:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
